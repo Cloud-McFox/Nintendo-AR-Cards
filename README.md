@@ -1,6 +1,8 @@
 # Nintendo-AR-Cards
-App que muestra imágenes de las AR Cards de Nintendo para su uso en Nintendo 3DS/App that displays images of Nintendo AR Cards for use in Nintendo 3DS
 ESPAÑOL
+
+App que muestra imágenes de las AR Cards de Nintendo para su uso en Nintendo 3DS
+
 Esta aplicación fue creada con el fin de tener una base de datos completa de las AR Cards para su uso en la aplicación de realidad aumentada de Nintendo 3DS, su uso es simple, abres la app, y automáticamente muestra las tarjetas, existen diversas secciones dentro de la app:
 
 AR Games	
@@ -28,6 +30,9 @@ Colecciones faltantes: Kid Icarus Uprising, Pokédex 3D Pro
 Las colecciones faltantes se irán actualizando para mantener actualizada la base de datos
 
 ENGLISH
+
+App that displays images of Nintendo AR Cards for use in Nintendo 3DS
+
 This application was created in order to have a complete database of AR Cards for use in the Nintendo 3DS augmented reality application, its use is simple, you open the app, and it automatically displays the cards, there are several sections inside of the app:
 
 AR Games	
